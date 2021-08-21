@@ -1,5 +1,3 @@
-import logo1 from '../../images/svg-1.svg';
-import logo2 from '../../images/svg-2.svg';
 import logo3 from '../../images/svg-3.svg';
 import logo4 from '../../images/svg-4.svg';
 import logo5 from '../../images/svg-5.svg';
