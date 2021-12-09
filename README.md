@@ -1,5 +1,12 @@
-# online banking startup website. check out live project [here](https://quirky-kirch-7d987c.netlify.app/)
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Tdolla 💸
+fintech startup
+
+## Stack
+React, styled components
+## Live link [dolla](https://quirky-kirch-7d987c.netlify.app/).
+
+
+# This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
