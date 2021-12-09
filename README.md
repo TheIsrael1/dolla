@@ -1,4 +1,4 @@
-# Tdolla 💸
+# dolla 💸
 fintech startup
 
 ## Stack
